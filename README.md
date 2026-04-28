@@ -1,4 +1,5 @@
 📊 Job Market Dashboard (Power BI)
+
 📌 Overview
 This project is an interactive Job Market Dashboard built using Power BI to analyze job trends, salary distribution, and in-demand skills across different roles and locations. The goal is to transform raw job data into meaningful insights that can support better career decisions.
 

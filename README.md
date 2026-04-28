@@ -44,4 +44,5 @@ Data-related roles offer higher average salaries
 Job opportunities are concentrated in major tech locations
 
 🚀 Project Outcome
+
 This project demonstrates the ability to clean, analyze, and visualize data effectively using Power BI while presenting insights in a clear and interactive manner.
